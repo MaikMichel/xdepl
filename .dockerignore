@@ -1,0 +1,6 @@
+.git
+.vscode
+
+# binaries to copy when local
+_binaries_tmp
+
